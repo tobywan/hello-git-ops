@@ -1,2 +1,3 @@
 # hello-git-ops
-Hello World Gitops config
+
+Flux configuration for syncing with a simple one node kubernetes cluster.
