@@ -7,5 +7,5 @@ metadata:
 spec:
   interval: 30s
   ref:
-    branch: feature/k8s-hosting
+    branch: main
   url: https://github.com/tobywan/simple-k8s-webserver
